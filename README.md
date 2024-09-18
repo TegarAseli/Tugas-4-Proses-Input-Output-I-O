@@ -11,6 +11,8 @@
 
 ## 2. Lihat daftar secara lengkap pada direktori /etc/passwd, belokkan tampilan standard output ke file baru tanpa menghapus file baru sebelumnya.
 
+---
+
 ![Screenshot 2024-09-18 122143](https://github.com/user-attachments/assets/8a8ae8c6-0590-4a76-b6e2-47406ba01a61)
 ![Screenshot 2024-09-18 122200](https://github.com/user-attachments/assets/0a7e09cc-9b5b-42d7-b95e-14bf7cab691d)
 
@@ -53,17 +55,21 @@ Setelah diurutkan:
 ![Screenshot 2024-09-18 131431](https://github.com/user-attachments/assets/33433b12-2de1-48c4-a7b0-a1b3831020a4)
 
 Karena "tty03" tidak ada pada /etc/passwd. Disini saya mengganti "tty03" menjadi "root" agar bisa melihat apakah kode ini dapat berjalan:
+
 ![Screenshot 2024-09-18 131510](https://github.com/user-attachments/assets/b8dab980-b233-439f-8c31-7aea6db297fe)
 
 
 ### $ find /etc -print | head
 
+![Screenshot 2024-09-18 131619](https://github.com/user-attachments/assets/e0b29099-41a4-4a6d-af46-294d3466bb7e)
 
 ### $ head /etc/passwd | tail -5 | sort
 
+![Screenshot 2024-09-18 131707](https://github.com/user-attachments/assets/2aadfe5b-23a6-4e3a-8316-45fc9efed9dd)
 
+## 9. Gunakan perintah $ who | cat | cat | sort | pr | head | cat | tail dan perhatikan hasilnya.
 
-
+![Screenshot 2024-09-18 131819](https://github.com/user-attachments/assets/1ba8d99c-79aa-4e65-a7b7-9e95468f9b80)
 
 
 
