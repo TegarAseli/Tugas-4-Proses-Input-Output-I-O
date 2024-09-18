@@ -39,14 +39,15 @@
 ![Screenshot 2024-09-18 125813](https://github.com/user-attachments/assets/812a4763-ac75-4c9d-97de-e7c43431c654)
 ![Screenshot 2024-09-18 125822](https://github.com/user-attachments/assets/870d397c-5dc3-4455-b54e-efee218099a1)
 
+Setelah diurutkan:
+![Screenshot 2024-09-18 130131](https://github.com/user-attachments/assets/04a0a3a7-c56d-453b-89fb-e02774b35d83)
+
 
 ## 7. Hitung jumlah baris, kata, dan karakter dari file baru.urut dengan menggunakan filter dan tambahkan data tersebut ke file baru.
 
 ![Screenshot 2024-09-18 124314](https://github.com/user-attachments/assets/178965bb-5957-4ed3-91fe-9176f2bf8587)
 ![Screenshot 2024-09-18 124336](https://github.com/user-attachments/assets/61f4c316-12b7-4292-8ccf-b77ab450118a)
 
-
-![Screenshot 2024-09-18 130131](https://github.com/user-attachments/assets/04a0a3a7-c56d-453b-89fb-e02774b35d83)
 
 
 
