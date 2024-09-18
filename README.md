@@ -20,8 +20,6 @@
 ![Screenshot 2024-09-18 122258](https://github.com/user-attachments/assets/bb6eab4e-2065-4446-a003-b2bcf0ba457d)
 
 
-
-
 ## 4. Urutkan file baru dengan cara membelokkan standard input dan standard output ke file baru.urut.
 
 ![Screenshot 2024-09-18 122354](https://github.com/user-attachments/assets/83177c68-9f70-4bec-9463-67af9892b8b2)
@@ -47,6 +45,21 @@ Setelah diurutkan:
 
 ![Screenshot 2024-09-18 124314](https://github.com/user-attachments/assets/178965bb-5957-4ed3-91fe-9176f2bf8587)
 ![Screenshot 2024-09-18 124336](https://github.com/user-attachments/assets/61f4c316-12b7-4292-8ccf-b77ab450118a)
+
+## 8. Gunakan perintah di bawah ini dan perhatikan hasilnya:
+
+### $ cat /etc/passwd | sort | pr -n | grep tty03
+
+![Screenshot 2024-09-18 131431](https://github.com/user-attachments/assets/33433b12-2de1-48c4-a7b0-a1b3831020a4)
+
+Karena "tty03" tidak ada pada /etc/passwd. Disini saya mengganti "tty03" menjadi "root" agar bisa melihat apakah kode ini dapat berjalan:
+![Screenshot 2024-09-18 131510](https://github.com/user-attachments/assets/b8dab980-b233-439f-8c31-7aea6db297fe)
+
+
+### $ find /etc -print | head
+
+
+### $ head /etc/passwd | tail -5 | sort
 
 
 
